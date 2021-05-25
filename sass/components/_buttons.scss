@@ -19,8 +19,8 @@
 }
 .btn--dark {
     padding: 10px 32px;
-    margin-top: 40px;
-    margin-left: 500px;
+    display: block;
+    margin: auto;
     color: var(--alt-tittle-cl);
     background-color: var(--button-bg);
 }
